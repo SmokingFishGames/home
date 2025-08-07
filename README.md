@@ -1,4 +1,4 @@
 home
 ====
 
-SFG's homepage, seen at http://smokingfishgames.com
+SFG's homepage, seen at https://smokingfishgames.com
